@@ -3,9 +3,6 @@
     "description": "京东API SDK【京东开放平台】.",
     "type": "library",
     "license": "MIT",
-    "config" : {
-		"optimize-autoloader" : true
-     },
     "keywords": [
         "京东",
         "jingdong",
